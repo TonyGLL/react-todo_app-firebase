@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+Demo: [react-todo-app](https://react-todo-app-c3694.web.app)
+
+**Screenshot**
+![screen](screen.png)
 
 ## Available Scripts
 
